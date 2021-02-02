@@ -102,6 +102,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | [this link](../practice/solution/0104_maximum_depth_of_binary_tree.py) |
+| 110 | https://leetcode.com/problems/balanced-binary-tree/ | [this link](../practice/solution/0110_balanced_binary_tree.py) |
 | 114 | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [this link](../practice/solution/0114_flatten_binary_tree_to_linked_list.py) | 
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) |
 | 226 | https://leetcode.com/problems/invert-binary-tree/ | [this link](../practice/solution/0226_invert_binary_tree.py) |
