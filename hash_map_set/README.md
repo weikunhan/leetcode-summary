@@ -60,6 +60,7 @@ Same as a hash map, the time complexity of the hash set is O(1) (Search O(1), In
 | 73 | https://leetcode.com/problems/set-matrix-zeroes/ | [this link](../practice/solution/0073_set_matrix_zeroes.py) |
 | 128 | https://leetcode.com/problems/longest-consecutive-sequence/ | [this link](../practice/solution/0128_longest_consecutive_sequence.py) |
 | 136 | https://leetcode.com/problems/single-number/ | [this link](../practice/solution/0136_single_number.py) | 
+| 202 | https://leetcode.com/problems/happy-number/ | [this link](../practice/solution/0202_happy_number.py) |
 | 205 | https://leetcode.com/problems/isomorphic-strings/ | [this link](../practice/solution/0205_isomorphic_strings.py) | 
 | 217 | https://leetcode.com/problems/contains-duplicate/ |[this link](../practice/solution/0217_contains_duplicate.py) |
 | 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
