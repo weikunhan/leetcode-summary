@@ -17,6 +17,7 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | ---- | --------------------------------- | --------------------------------- |
 | 13 | https://leetcode.com/problems/roman-to-integer/ | [this link](../practice/solution/0013_roman_to_integer.py) |
 | 49 | https://leetcode.com/problems/group-anagrams/ | [this link](../practice/solution/0049_group_anagrams.py) |
+| 166 | https://leetcode.com/problems/fraction-to-recurring-decimal/ | [this link](../practice/solution/0166_fraction_to_recurring_decimal.py) |
 | 187 | https://leetcode.com/problems/repeated-dna-sequences/ | |
 | 219 | https://leetcode.com/problems/contains-duplicate-ii/ | |
 | 220 | https://leetcode.com/problems/contains-duplicate-iii/ | |
