@@ -28,6 +28,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 286 | https://leetcode.com/problems/walls-and-gates/ | [this link](../practice/solution/0286_walls_and_gates.py) |
 | 490 | https://leetcode.com/problems/the-maze/ | [this link](../practice/solution/0490_the_maze.py) |
 | 542 | https://leetcode.com/problems/01-matrix/ | [this link](../practice/solution/0542_01_matrix.py) |
 | 773 | https://leetcode.com/problems/sliding-puzzle/ | |
