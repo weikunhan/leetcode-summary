@@ -21,6 +21,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 51 | https://leetcode.com/problems/n-queens/ | [this link](../practice/solution/0051_n_queens.py) |
 | 78 | https://leetcode.com/problems/subsets/ | [this link](../practice/solution/0078_subsets.py) |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
+| 282 | https://leetcode.com/problems/expression-add-operators/ | [this link](../practice/solution/0282_expression_add_operators.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
