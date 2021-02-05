@@ -23,6 +23,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
 | 282 | https://leetcode.com/problems/expression-add-operators/ | [this link](../practice/solution/0282_expression_add_operators.py) |
 | 301 | https://leetcode.com/problems/remove-invalid-parentheses/ | [this link](../practice/solution/0301_remove_invalid_parentheses.py) |
+| 320 | https://leetcode.com/problems/generalized-abbreviation/ | [this link](../practice/solution/0320_generalized_abbreviation.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
