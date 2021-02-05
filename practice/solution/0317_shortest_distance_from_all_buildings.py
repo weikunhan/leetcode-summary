@@ -38,7 +38,7 @@ class Solution(object):
     def helper(self, row, col, grid, visit_value_list, dp_list):
         value_list = collections.deque([(row, col, 0)])
         visit_dict = set([(row, col)])
-        count = 1
+        temp_value = 1
 
         while value_list:
             i, j, cost = value_list.popleft()
@@ -51,8 +51,8 @@ class Solution(object):
                         visit_value_list[a][b] += cost + 1
                     
                     if grid[a][b] == 1:
-                        count += 1
+                        temp_value += 1
                         
                     visit_dict.add((a, b))
                         
-        return count
+        return temp_value
