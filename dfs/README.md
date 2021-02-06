@@ -25,6 +25,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 301 | https://leetcode.com/problems/remove-invalid-parentheses/ | [this link](../practice/solution/0301_remove_invalid_parentheses.py) |
 | 320 | https://leetcode.com/problems/generalized-abbreviation/ | [this link](../practice/solution/0320_generalized_abbreviation.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
+| 351 | https://leetcode.com/problems/android-unlock-patterns/ | [this link](../practice/solution/0351_android_unlock_patterns.py) |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
