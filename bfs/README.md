@@ -48,6 +48,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 407 | https://leetcode.com/problems/trapping-rain-water-ii/ | [this link](../practice/solution/0407_trapping_rain_water_ii.py) |
 | 505 | https://leetcode.com/problems/the-maze-ii/ | [this link](../practice/solution/0505_the_maze_ii.py) |
 | 1102 | https://leetcode.com/problems/path-with-maximum-minimum-value/ | [this link](../practice/solution/1102_path_with_maximum_minimum_value.py) |
 | 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../practice/a/max_of_min_altitudes.py) | 
