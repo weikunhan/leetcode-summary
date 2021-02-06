@@ -26,6 +26,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 320 | https://leetcode.com/problems/generalized-abbreviation/ | [this link](../practice/solution/0320_generalized_abbreviation.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 351 | https://leetcode.com/problems/android-unlock-patterns/ | [this link](../practice/solution/0351_android_unlock_patterns.py) |
+| 395 | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ | [this link](../practice/solution/0395_longest_substring_with_at_least_k_repeating_characters.py) | 
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
