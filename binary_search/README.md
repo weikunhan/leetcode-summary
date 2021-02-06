@@ -24,6 +24,7 @@ The time complexity of the binary seasrch in sorted array is O(log(n)）
 | 162 | https://leetcode.com/problems/find-peak-element/ | [this link](../practice/solution/0162_find_peak_element.py) |
 | 278 | https://leetcode.com/problems/first-bad-version/ | [this link](../practice/solution/0278_first_bad_version.py) | 
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | [this link](../practice/solution/0300_longest_increasing_subsequence.py) |
+| 354 | https://leetcode.com/problems/russian-doll-envelopes/ | [this link](../practice/solution/0354_russian_doll_envelopes.py) |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | [this link](../practice/solution/0410_split_array_largest_sum.py) |
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | [this link](../practice/solution/0540_single_element_in_a_sorted_array.py) |
 | 704 | https://leetcode.com/problems/binary-search/ | [this link](../practice/solution/0704_binary_search.py) |
