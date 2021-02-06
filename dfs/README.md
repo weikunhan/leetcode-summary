@@ -119,6 +119,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 652 | https://leetcode.com/problems/find-duplicate-subtrees/ | [this link](../practice/solution/0652_find_duplicate_subtrees.py) |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | [this link](../practice/solution/1120_maximum_average_subtree.py) |
 | 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../practice/a/subtree_with_maximum_average.py) |
+| 1339 | https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/ | [this link](../practice/solution/1339_maximum_product_of_splitted_binary_tree.py) |
 | 1644 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/ | [this link](../practice/solution/1644_lowest_common_ancestor_of_a_binary_tree_ii.py) |
 
 ## Graph
