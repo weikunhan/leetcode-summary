@@ -95,6 +95,8 @@ To solve this kind of problem, you could reference example like the travelling s
 | 45 | https://leetcode.com/problems/jump-game-ii/ | [this link](../practice/solution/0045_jump_game_ii.py) |
 | 55 | https://leetcode.com/problems/jump-game/ | [this link](../practice/solution/0055_jump_game.py) |
 | 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | [this link](../practice/solution/0122_best_time_to_buy_and_sell_stock_ii.py) |
+| 252 | https://leetcode.com/problems/meeting-rooms/ | [this link](../practice/solution/0252_meeting_rooms.py) |
+| 253 | https://leetcode.com/problems/meeting-rooms-ii/ | [this link](../practice/solution/0253_meeting_rooms_ii.py) |
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
