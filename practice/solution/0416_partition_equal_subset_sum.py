@@ -6,31 +6,31 @@ class Solution(object):
         """
     
         sum_value = sum(nums)
-        self.value_dict = set()
+        dp_list = [False] * (sum_value // 2 + 1)
         self.res = False
 
         if sum_value % 2:
             
             return self.res
 
-        self.res = self.dfs(nums, sum_value // 2)
+        self.res = self.dfs(nums, sum_value // 2, dp_list)
    
         return self.res
     
 
-    def dfs(self, nums, target):
+    def dfs(self, nums, target, dp_list):
         if target == 0:
 
             return True
 
-        if target < 0 or target in self.value_dict:
+        if target < 0 or dp_list[target]:
 
             return False
         
-        self.value_dict.add(target)
+        dp_list[target] = True
 
         for i in range(len(nums)):
-            if self.dfs(nums[i + 1:], target - nums[i]): 
+            if self.dfs(nums[i + 1:], target - nums[i], dp_list): 
                 return True
 
         return False
