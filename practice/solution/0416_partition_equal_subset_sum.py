@@ -19,7 +19,7 @@ class Solution(object):
     
 
     def dfs(self, nums, target, dp_list):
-        if target == 0:
+        if not target:
 
             return True
 
