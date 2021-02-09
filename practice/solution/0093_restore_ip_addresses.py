@@ -17,15 +17,15 @@ class Solution(object):
                     second_value = s[first:second]
                     third_value = s[second:third]
                     fourth_value = s[third:]
-                    temp_list = [first_value, second_value, third_value, fourth_value]
+                    value_list = [first_value, second_value, third_value, fourth_value]
                         
-                    if self.helper(temp_list):
-                        res.append('.'.join(temp_list))
+                    if self.helper(value_list):
+                        res.append('.'.join(value_list))
                         
         return res
                             
-    def helper(self, temp_list):
-        for char in temp_list:
+    def helper(self, value_list):
+        for char in value_list:
             if char[0] == '0' and char != '0':
                 
                 return False
