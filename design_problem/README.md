@@ -111,4 +111,5 @@ For more information, you need to check related courses and books. Here, I split
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
 | 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
+| 1352 | https://leetcode.com/problems/product-of-the-last-k-numbers/ | [this link](../practice/solution/1352_product_of_the_last_k_numbers.py) |
 
