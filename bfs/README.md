@@ -67,7 +67,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 653 | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ | |
 | 662 | https://leetcode.com/problems/maximum-width-of-binary-tree/ | [this link](../practice/solution/0662_maximum_width_of_binary_tree.py) |
 | 958 | https://leetcode.com/problems/check-completeness-of-a-binary-tree/ | [this link](../practice/solution/0958_check_completeness_of_a_binary_tree.py) |
-| 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | |
+| 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | [this link](../practice/solution/0987_vertical_order_traversal_of_a_binary_tree.py) |
 
 ## Graph
 ### Deque solver
