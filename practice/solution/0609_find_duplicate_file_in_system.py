@@ -11,10 +11,10 @@ class Solution(object):
         res = []
         
         for path in paths:
-            temp_list = path.split()
-            temp_value = temp_list[0]
+            value_list = path.split()
+            temp_value = value_list[0]
             
-            for data in temp_list[1:]:
+            for data in value_list[1:]:
                 index_value = data.index('(')
                 value_dict[data[index_value + 1:-1]].append(temp_value + '/' + data[:index_value])
                 
