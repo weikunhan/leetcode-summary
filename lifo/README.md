@@ -35,6 +35,7 @@ The time complexity of the stack is Push-Top O(1) and Pop-Top O(1). The Space co
 | 772 | https://leetcode.com/problems/basic-calculator-iii/ | |
 | 844 | https://leetcode.com/problems/backspace-string-compare/ | [this link](../practice/solution/0844_backspace_string_compare.py) |
 | 1047 | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | [this link](../practice/solution/1047_remove_all_adjacent_duplicates_in_string.py) |
+| 1081 | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/ | [this link](../practice/solution/1081_smallest_subsequence_of_distinct_characters.py) |
 | 1130 | https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/ | |
 | 1190 | https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/ | [this link](../practice/solution/1190_reverse_substrings_between_each_pair_of_parentheses.py) |
 | 1214 | https://leetcode.com/problems/two-sum-bsts/ | |
