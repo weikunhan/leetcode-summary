@@ -56,7 +56,7 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 | 97 | https://leetcode.com/problems/interleaving-string/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
 | 1035 | https://leetcode.com/problems/uncrossed-lines/ | |
-| 1143 | https://leetcode.com/problems/longest-common-subsequence/ | |
+| 1143 | https://leetcode.com/problems/longest-common-subsequence/ | [this link](../practice/solution/1143_longest_common_subsequence.py) |
 
 ## Interval DP
 
