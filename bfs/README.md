@@ -33,6 +33,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 490 | https://leetcode.com/problems/the-maze/ | [this link](../practice/solution/0490_the_maze.py) |
 | 542 | https://leetcode.com/problems/01-matrix/ | [this link](../practice/solution/0542_01_matrix.py) |
 | 773 | https://leetcode.com/problems/sliding-puzzle/ | |
+| 864 | https://leetcode.com/problems/shortest-path-to-get-all-keys/ | [this link](../practice/solution/0864_shortest_path_to_get_all_keys.py) |
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
 | 934 | https://leetcode.com/problems/shortest-bridge/ | | 
 | 994 | https://leetcode.com/problems/rotting-oranges/ | [this link](../practice/solution/0994_rotting_oranges.py) |
