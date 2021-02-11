@@ -10,7 +10,7 @@ class Solution(object):
         
         visit_value_dict = set(deadends)
         value_list = collections.deque([('0000', 0)])
-        target_value_dict = {}
+        data_value_dict = {}
         res = -1
         
         if '0000' in visit_value_dict:
@@ -18,7 +18,7 @@ class Solution(object):
             return res
         
         for i in range(10):
-            target_value_dict[str(i)] = [str((i + 1) % 10), str((i - 1) % 10)]
+            data_value_dict[str(i)] = [str((i + 1) % 10), str((i - 1) % 10)]
             
         while value_list:
             temp_value = len(value_list)
@@ -32,8 +32,8 @@ class Solution(object):
                     return res
                 
                 for i in range(4):
-                    first_value = state[:i] + target_value_dict[state[i]][0] + state[i + 1:]
-                    second_value = state[:i] + target_value_dict[state[i]][1] + state[i + 1:]
+                    first_value = state[:i] + data_value_dict[state[i]][0] + state[i + 1:]
+                    second_value = state[:i] + data_value_dict[state[i]][1] + state[i + 1:]
                     
                     for move in [first_value, second_value]:
                         if not move in visit_value_dict:
