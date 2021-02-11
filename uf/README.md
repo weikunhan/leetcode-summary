@@ -35,4 +35,5 @@ The time complexity of the union-find is (log*(n)).
 | 547 | https://leetcode.com/problems/friend-circles/ | |
 | 721 | https://leetcode.com/problems/accounts-merge/ | [this link](../practice/solution/0721_accounts_merge.py) |
 | 737 | https://leetcode.com/problems/sentence-similarity-ii/ | |
+| 924 | https://leetcode.com/problems/minimize-malware-spread/ | [this link](../practice/solution/0924_minimize_malware_spread.py) | 
 | 947 | https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ | |
