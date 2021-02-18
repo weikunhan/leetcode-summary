@@ -74,6 +74,7 @@ For more information, you need to check related courses and books. Here, I split
 | 341 | https://leetcode.com/problems/flatten-nested-list-iterator/ | [this link](../practice/solution/0341_flatten_nested_list_iterator.py) |
 | 716 | https://leetcode.com/problems/max-stack/ | |
 | 895 | https://leetcode.com/problems/maximum-frequency-stack/ | |
+| 1172 | https://leetcode.com/problems/dinner-plate-stacks/ | [this link](../practice/solution/1172_dinner_plate_stacks.py) |
 | 1381 | https://leetcode.com/problems/design-a-stack-with-increment-operation/ | |
 
 ## Depth-First search
