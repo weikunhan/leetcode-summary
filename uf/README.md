@@ -37,3 +37,4 @@ The time complexity of the union-find is (log*(n)).
 | 737 | https://leetcode.com/problems/sentence-similarity-ii/ | |
 | 924 | https://leetcode.com/problems/minimize-malware-spread/ | [this link](../practice/solution/0924_minimize_malware_spread.py) | 
 | 947 | https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ | |
+| 1202 | https://leetcode.com/problems/smallest-string-with-swaps/ | [this link](../practice/solution/1202_smallest_string_with_swaps.py) |
