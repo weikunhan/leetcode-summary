@@ -5,29 +5,29 @@ class Solution(object):
         :rtype: int
         """
         
-        self.value_list = []
+        value_list = []
         self.res = 0
 
         for envelope in sorted(envelopes, key=lambda x:(x[0], -x[1])):
-            temp_value = self.helper(envelope[1])
+            temp_value = self.helper(value_list, envelope[1])
                 
-            if temp_value == len(self.value_list):
-                self.value_list.append(envelope[1])
+            if temp_value == len(value_list):
+                value_list.append(envelope[1])
             else:
-                self.value_list[temp_value] = envelope[1]
+                value_list[temp_value] = envelope[1]
 
-        self.res = len(self.value_list)      
+        self.res = len(value_list)      
                 
         return self.res
     
-    def helper(self, target):
+    def helper(self, value_list, target):
         low = 0
-        high = len(self.value_list)
+        high = len(value_list)
         
         while low < high:
             mid = (low + high) // 2
             
-            if self.value_list[mid] < target:
+            if value_list[mid] < target:
                 low = mid + 1
             else:
                 high = mid
