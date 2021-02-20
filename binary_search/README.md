@@ -32,6 +32,7 @@ The time complexity of the binary seasrch in sorted array is O(log(n)）
 | 1011 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | [this link](../practice/solution/1011_capacity_to_ship_packages_within_d_days.py) |
 | 1044 | https://leetcode.com/problems/longest-duplicate-substring/ | [this link](../practice/solution/1044_longest_duplicate_substring.py) |
 | 1170 | https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/ | [this link](../practice/solution/1170_compare_strings_by_frequency_of_the_smallest_character.py) |
+| 1283 | https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ | [this link](../practice/solution/1283_find_the_smallest_divisor_given_a_threshold.py) |
 
 ## 2D Array
 
