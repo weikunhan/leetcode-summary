@@ -97,6 +97,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | 518 | https://leetcode.com/problems/coin-change-2/ | [this link](../practice/solution/0518_coin_change_2.py) |
 | 1049 | https://leetcode.com/problems/last-stone-weight-ii/ | [this link](../practice/solution/1049_last_stone_weight_ii.py) |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | [this link](../practice/solution/1155_number_of_dice_rolls_with_target_sum.py) |
+| 1262 | https://leetcode.com/problems/greatest-sum-divisible-by-three/ | [this link](../practice/solution/1262_greatest_sum_divisible_by_three.py) |
 | 1235 | https://leetcode.com/problems/maximum-profit-in-job-scheduling/ | [this link](../practice/solution/1235_maximum_profit_in_job_scheduling.py) |
 
 ## Comprehensive DP
