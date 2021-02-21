@@ -11,11 +11,11 @@ class Solution(object):
         
         for path in value_list:
             if path and path != '.':
-                if path == '..':
-                    if value_stack:
-                        value_stack.pop()
-                else:
+                if path != '..':
                     value_stack.append(path)
+                else:
+                    if value_stack:
+                        value_stack.pop()               
                     
         res += '/'.join(value_stack)
         
