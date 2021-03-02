@@ -29,6 +29,7 @@ The time complexity of the stack is Push-Top O(1) and Pop-Top O(1). The Space co
 | 496 | https://leetcode.com/problems/next-greater-element-i/ | [this link](../practice/solution/0496_next_greater_element_i.py) |
 | 503 | https://leetcode.com/problems/next-greater-element-ii/ | [this link](../practice/solution/0503_next_greater_element_ii.py) |
 | 636 | https://leetcode.com/problems/exclusive-time-of-functions/ | [this link](../practice/solution/0636_exclusive_time_of_functions.py) |
+| 726 | https://leetcode.com/problems/number-of-atoms/ | [this link](../practice/solution/0726_number_of_atoms.py) |
 | 735 | https://leetcode.com/problems/asteroid-collision/ | [this link](../practice/solution/0735_asteroid_collision.py) |
 | 739 | https://leetcode.com/problems/daily-temperatures/ | [this link](../practice/solution/0739_daily_temperatures.py) |
 | 772 | https://leetcode.com/problems/basic-calculator-iii/ | |
