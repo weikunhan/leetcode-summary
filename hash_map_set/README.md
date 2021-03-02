@@ -25,6 +25,7 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 311 | https://leetcode.com/problems/sparse-matrix-multiplication/ | [this link](../practice/solution/0311_sparse_matrix_multiplication.py) |
 | 349 | https://leetcode.com/problems/intersection-of-two-arrays/ | [this link](../practice/solution/0349_intersection_of_two_arrays.py) |
 | 350 | https://leetcode.com/problems/intersection-of-two-arrays-ii/ | [this link](../practice/solution/0350_intersection_of_two_arrays_ii.py) |  
+| 336 | https://leetcode.com/problems/palindrome-pairs/ | [this link](../practice/solution/0336_palindrome_pairs.py) |
 | 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | [this link](../practice/solution/0387_first_unique_character_in_a_string.py) |
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | [this link](../practice/solution/0438_find_all_anagrams_in_a_string.py) |
 | 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
