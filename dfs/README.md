@@ -16,6 +16,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py) |
 | 37 | https://leetcode.com/problems/sudoku-solver/ | [this link](../practice/solution/0037_sudoku_solver.py) |
 | 39 | https://leetcode.com/problems/combination-sum/ | [this link](../practice/solution/0039_combination_sum.py) | 
+| 40 | https://leetcode.com/problems/combination-sum-ii/ | [this link](../practice/solution/0040_combination_sum_ii.py) |
 | 46 | https://leetcode.com/problems/permutations/ | [this link](../practice/solution/0046_permutations.py) |
 | 47 | https://leetcode.com/problems/permutations-ii/ | [this link](../practice/solution/0047_permutations_ii.py) |
 | 51 | https://leetcode.com/problems/n-queens/ | [this link](../practice/solution/0051_n_queens.py) |
