@@ -28,6 +28,7 @@ The time complexity of this technique depends on the question.
 | 283 | https://leetcode.com/problems/move-zeroes/ | [this link](../practice/solution/0283_move_zeroes.py) |
 | 344 | https://leetcode.com/problems/reverse-string/ | [this link](../practice/solution/0344_reverse_string.py) |
 | 415 | https://leetcode.com/problems/add-strings/ | [this link](../practice/solution/0415_add_strings.py) |
+| 556 | https://leetcode.com/problems/next-greater-element-iii/ | [this link](../practice/solution/0556_next_greater_element_iii.py) |
 | 611 | https://leetcode.com/problems/valid-triangle-number/ | [this link](../practice/solution/0611_valid_triangle_number.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 986 | https://leetcode.com/problems/interval-list-intersections/ | [this link](../practice/solution/0986_interval_list_intersections.py) |
