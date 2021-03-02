@@ -109,6 +109,7 @@ For more information, you need to check related courses and books. Here, I split
 | 307 | https://leetcode.com/problems/range-sum-query-mutable/ | |
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | [this link](../practice/solution/0348_design_tic_tac_toe.py) |
 | 384 | https://leetcode.com/problems/shuffle-an-array/ | [this link](../practice/solution/0384_shuffle_an_array.py) |
+| 528 | https://leetcode.com/problems/random-pick-with-weight/ | [this link](../practice/solution/0528_random_pick_with_weight.py) | 
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
 | 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
