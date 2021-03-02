@@ -21,6 +21,6 @@ class Solution(object):
                 i, j = value_list.popleft()
                 
                 for a, b in [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)]:
-                    if a >= 0 and a < len(rooms) and b >= 0 and b < len(rooms[0]) and rooms[a][b] > 2**30:
+                    if a >= 0 and a < len(rooms) and b >= 0 and b < len(rooms[0]) and rooms[a][b] > 2**31 - 2:
                         rooms[a][b] = rooms[i][j] + 1
                         value_list.append((a, b))
