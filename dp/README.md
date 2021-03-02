@@ -99,6 +99,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | [this link](../practice/solution/1155_number_of_dice_rolls_with_target_sum.py) |
 | 1262 | https://leetcode.com/problems/greatest-sum-divisible-by-three/ | [this link](../practice/solution/1262_greatest_sum_divisible_by_three.py) |
 | 1235 | https://leetcode.com/problems/maximum-profit-in-job-scheduling/ | [this link](../practice/solution/1235_maximum_profit_in_job_scheduling.py) |
+| 1416 | https://leetcode.com/problems/restore-the-array/ | [this link](../practice/solution/1416_restore_the_array.py) |
 
 ## Comprehensive DP
 
