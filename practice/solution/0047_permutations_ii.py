@@ -1,22 +1,27 @@
 class Solution(object):
-    def permuteUnique(self, nums):
+    def combinationSum2(self, candidates, target):
         """
-        :type nums: List[int]
+        :type candidates: List[int]
+        :type target: int
         :rtype: List[List[int]]
         """
-        
+
         self.res = []
         
-        self.dfs(sorted(nums), [])
+        self.dfs(0, sorted(candidates), target, [])
         
         return self.res
+    
+    def dfs(self, start, candidates, target, value_list):
+        if target < 0:
+            
+            return
         
-    def dfs(self, nums, value_list):
-        if not nums:
+        if not target:
             self.res.append(value_list)
             
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
+        for i in range(start, len(candidates)):
+            if i > start and candidates[i] == candidates[i - 1]:
                 continue
-            
-            self.dfs(nums[:i] + nums[i + 1:], value_list + [nums[i]])
+                
+            self.dfs(i + 1, candidates, target - candidates[i], value_list + [candidates[i]])
