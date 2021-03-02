@@ -77,6 +77,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 133 | https://leetcode.com/problems/clone-graph/ | [this link](../practice/solution/0133_clone_graph.py) |
 | 863 | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | [this link](../practice/solution/0863_all_nodes_distance_k_in_binary_tree.py) |
+| 875 | https://leetcode.com/problems/is-graph-bipartite/ | [this link](../practice/solution/0785_is_graph_bipartite.py) |
 | 1129 | https://leetcode.com/problems/shortest-path-with-alternating-colors/ | [this link](../practice/solution/1129_shortest_path_with_alternating_colors.py) |
 
 ### Heap solver
