@@ -119,7 +119,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 125 | https://leetcode.com/problems/valid-palindrome/ | [this link](../practice/solution/0125_valid_palindrome.py) |
 | 151 | https://leetcode.com/problems/reverse-words-in-a-string/ | [this link](../practice/solution/0151_reverse_words_in_a_string.py) |
 | 163 | https://leetcode.com/problems/missing-ranges/ | [this link](../practice/solution/0163_missing_ranges.py) |
-| 165 | https://leetcode.com/problems/compare-version-numbers/ | |
+| 165 | https://leetcode.com/problems/compare-version-numbers/ | [this link](../practice/solution/0165_compare_version_numbers.py) |
 | 179 | https://leetcode.com/problems/largest-number/ | [this link](../practice/solution/0179_largest_number.py) |
 | 191 | https://leetcode.com/problems/number-of-1-bits/ | [this link](../practice/solution/0191_number_of_1_bits.py) |
 | 214 | https://leetcode.com/problems/shortest-palindrome/ | [this link](../practice/solution/0214_shortest_palindrome.py) | 
