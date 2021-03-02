@@ -124,3 +124,4 @@ From my understanding, the binary indexed tree is another evolution from divided
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 315 | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | [this link](../practice/solution/0315_count_of_smaller_numbers_after_self.py) |
+| 493 | https://leetcode.com/problems/reverse-pairs/ | [this link](../practice/solution/0493_reverse_pairs.py) |
