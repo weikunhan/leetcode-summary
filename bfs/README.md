@@ -53,6 +53,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 505 | https://leetcode.com/problems/the-maze-ii/ | [this link](../practice/solution/0505_the_maze_ii.py) |
 | 1102 | https://leetcode.com/problems/path-with-maximum-minimum-value/ | [this link](../practice/solution/1102_path_with_maximum_minimum_value.py) |
 | 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../practice/a/max_of_min_altitudes.py) | 
+| 1631 | https://leetcode.com/problems/path-with-minimum-effort/ | [this link](../practice/solution/01631_path_with_minimum_effort.py) |
 
 ## Tree
 ### Deque solver
