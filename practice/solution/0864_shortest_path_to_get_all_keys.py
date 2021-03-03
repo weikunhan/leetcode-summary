@@ -14,10 +14,10 @@ class Solution(object):
 
         for i in range(len(grid)):
             for j in range(len(grid[0])):
-                if grid[i][j] in "abcdef":
-                    final_value |= 1 << ord(grid[i][j]) - ord("a")
+                if grid[i][j] in 'abcdef':
+                    final_value |= 1 << ord(grid[i][j]) - ord('a')
                 
-                if grid[i][j] == "@":
+                if grid[i][j] == '@':
                     value_list.append((i, j, 0, 0))
                     
         while value_list:
@@ -33,11 +33,11 @@ class Solution(object):
 
                 for a, b in [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)]:
                     if a >= 0 and a < len(grid) and b >= 0 and b < len(grid[0]) and grid[a][b] != '#':
-                        if grid[a][b].isupper() and not state & 1 << (ord(grid[a][b].lower()) - ord("a")): 
+                        if grid[a][b].isupper() and not state & 1 << (ord(grid[a][b].lower()) - ord('a')): 
                             continue
 
-                        if ord(grid[a][b]) >= ord("a"):
-                            next_state = state | 1 << (ord(grid[a][b]) - ord("a")) 
+                        if ord(grid[a][b]) >= ord('a'):
+                            next_state = state | 1 << (ord(grid[a][b]) - ord('a')) 
                         else:
                             next_state = state
 
