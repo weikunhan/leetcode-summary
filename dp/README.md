@@ -33,7 +33,6 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | ---- | --------------------------------- | --------------------------------- |
 | 53 | https://leetcode.com/problems/maximum-subarray/ | [this link](../practice/solution/0053_maximum_subarray.py) |
 | 32 | https://leetcode.com/problems/longest-valid-parentheses/ | [this link](../practice/solution/0032_longest_valid_parentheses.py) |
-| 91 | https://leetcode.com/problems/decode-ways/ | [this link](../practice/solution/0091_decode_ways.py) |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | [this link](../practice/solution/0121_best_time_to_buy_and_sell_stock.py) |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 135 | https://leetcode.com/problems/candy/ | |
@@ -89,6 +88,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 91 | https://leetcode.com/problems/decode-ways/ | [this link](../practice/solution/0091_decode_ways.py) |
 | 198 | https://leetcode.com/problems/house-robber/ | [this link](../practice/solution/0198_house_robber.py) |
 | 256 | https://leetcode.com/problems/paint-house/ | [this link](../practice/solution/0256_paint_house.py) |
 | 279 | https://leetcode.com/problems/perfect-squares/ | [this link](../practice/solution/0279_perfect_squares.py) |
