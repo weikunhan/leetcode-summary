@@ -33,6 +33,7 @@ class Solution(object):
                 res[worker] = bike
                 visit_value_dict.add(bike)
             else:
-                heapq.heappush(value_pq, data_value_dict[worker].pop()) 
+                temp_value = data_value_dict[worker].pop()
+                heapq.heappush(value_pq, temp_value) 
                 
         return res
