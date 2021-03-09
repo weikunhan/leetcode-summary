@@ -14,7 +14,7 @@ class Solution(object):
         dummy_head = ListNode(-1)
         dummy_head.next = head
         temp_res = dummy_head
-        l1 = temp_res.next
+        l1 = dummy_head.next
         l2 = None
         
         while l1:
