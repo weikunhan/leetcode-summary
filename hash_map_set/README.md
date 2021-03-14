@@ -42,10 +42,11 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 963 | https://leetcode.com/problems/minimum-area-rectangle-ii/ | |
 | 974 | https://leetcode.com/problems/subarray-sums-divisible-by-k/ | [this link](../practice/solution/0974_subarray_sums_divisible_by_k.py) |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
+| 1153 | https://leetcode.com/problems/string-transforms-into-another-string/ | [this link](../practice/solution/1153_string_transforms_into_another_string.py) |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
 | 1296 | https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/ | [this link](../practice/solution/1296_divide_array_in_sets_of_k_consecutive_numbers.py) |
 | 1410 | https://leetcode.com/problems/html-entity-parser/ | [this link](../practice/solution/1410_html_entity_parser.py) |
-| 1153 | https://leetcode.com/problems/string-transforms-into-another-string/ | [this link](../practice/solution/1153_string_transforms_into_another_string.py) |
+| 1477 | https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/ | [this link](../practice/solution/1477_find_two_non_overlapping_sub_arrays_each_with_target_sum.py) |
 | | https://leetcode.com/discuss/interview-question/373006 | [this link](../practice/a/favorite_genres.py) |
 | | https://www.1point3acres.com/bbs/thread-580122-1-1.html | [this link](../practice/a/user_based_recommendation_system.py) |
 | | https://www.1point3acres.com/bbs/thread-610975-1-1.html | [this link](../practice/others/throttling_gateway.py) |
