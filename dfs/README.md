@@ -21,6 +21,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 47 | https://leetcode.com/problems/permutations-ii/ | [this link](../practice/solution/0047_permutations_ii.py) |
 | 51 | https://leetcode.com/problems/n-queens/ | [this link](../practice/solution/0051_n_queens.py) |
 | 78 | https://leetcode.com/problems/subsets/ | [this link](../practice/solution/0078_subsets.py) |
+| 90 | https://leetcode.com/problems/subsets-ii/ | [this link](../practice/solution/0090_subsets_ii.py) | 
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
 | 282 | https://leetcode.com/problems/expression-add-operators/ | [this link](../practice/solution/0282_expression_add_operators.py) |
 | 301 | https://leetcode.com/problems/remove-invalid-parentheses/ | [this link](../practice/solution/0301_remove_invalid_parentheses.py) |

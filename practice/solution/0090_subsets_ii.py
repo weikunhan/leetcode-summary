@@ -1,13 +1,13 @@
 class Solution(object):
-    def subsets(self, nums):
+    def subsetsWithDup(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        
+
         self.res = []
         
-        self.dfs(0, nums, [])
+        self.dfs(0, sorted(nums), [])
         
         return self.res
     
@@ -15,4 +15,7 @@ class Solution(object):
         self.res.append(value_list)
         
         for i in range(start, len(nums)):
+            if i > start and nums[i] == nums[i - 1]:
+                continue
+                
             self.dfs(i + 1, nums, value_list + [nums[i]])
