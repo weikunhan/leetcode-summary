@@ -55,6 +55,7 @@ There are few problems that are related to mathematical. You should familiar wit
 | 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
 | 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 412 | https://leetcode.com/problems/fizz-buzz/ | [this link](../practice/solution/0412_fizz_buzz.py) |
+| 440 | https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/ | [this link](../practice/solution/0440_k_th_smallest_in_lexicographical_order.py) | 
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
 | 477 | https://leetcode.com/problems/total-hamming-distance/ | |
 | 492 | https://leetcode.com/problems/construct-the-rectangle/ | |
