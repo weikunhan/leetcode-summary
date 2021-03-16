@@ -13,12 +13,12 @@ class Solution(object):
             
             return self.res
 
-        self.res = self.dfs(nums, sum_value // 2, dp_list)
+        self.res = self.dfs(0, nums, sum_value // 2, dp_list)
    
         return self.res
     
 
-    def dfs(self, nums, target, dp_list):
+    def dfs(self, start, nums, target, dp_list):
         if not target:
 
             return True
@@ -29,8 +29,8 @@ class Solution(object):
         
         dp_list[target] = True
 
-        for i in range(len(nums)):
-            if self.dfs(nums[i + 1:], target - nums[i], dp_list): 
+        for i in range(start, len(nums)):
+            if self.dfs(i + 1, nums, target - nums[i], dp_list): 
                 return True
 
         return False
