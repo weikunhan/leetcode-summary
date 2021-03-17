@@ -34,7 +34,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | [this link](../practice/solution/0489_robot_room_cleaner.py) |
-| 689 | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ | [this link](../practice/solution/0689_partition_to_k_equal_sum_subsets.py) | 
+| 698 | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ | [this link](../practice/solution/0698_partition_to_k_equal_sum_subsets.py) | 
 
 ## 2D Array
 ### Backtracking
