@@ -29,9 +29,7 @@ class Solution(object):
             if not value_list:
                 self.dfs(start, end, value_list + [i], dp_list)
             else:
-                temp_value = value_list[-1]
-            
-                if not dp_list[i] and (not (temp_value, i) in self.value_dict or dp_list[self.value_dict[(temp_value, i)]]):
+                if not dp_list[i] and (not (value_list[-1], i) in self.value_dict or dp_list[self.value_dict[(value_list[-1], i)]]):
                     self.dfs(start, end, value_list + [i], dp_list)
 
         if value_list: 
