@@ -36,7 +36,8 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 567 | https://leetcode.com/problems/permutation-in-string/ | [this link](../practice/solution/0567_permutation_in_string.py) |
 | 599 | https://leetcode.com/problems/minimum-index-sum-of-two-lists/ | [this link](../practice/solution/0599_minimum_index_sum_of_two_lists.py) |
 | 609 | https://leetcode.com/problems/find-duplicate-file-in-system/ | [this link](../practice/solution/0609_find_duplicate_file_in_system.py) |
-| 621 | https://leetcode.com/problems/task-scheduler/ | [this link](../practice/solution/0621_task_scheduler.py) | 
+| 621 | https://leetcode.com/problems/task-scheduler/ | [this link](../practice/solution/0621_task_scheduler.py) |
+| 670 | https://leetcode.com/problems/maximum-swap/ | [this link](../practice/solution/0670_maximum_swap.py) | 
 | 697 | https://leetcode.com/problems/degree-of-an-array/ | |
 | 846 | https://leetcode.com/problems/hand-of-straights/ | [this link](../practice/solution/0846_hand_of_straights.py) |
 | 953 | https://leetcode.com/problems/verifying-an-alien-dictionary/ | |
