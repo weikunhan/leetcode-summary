@@ -99,6 +99,7 @@ To solve this kind of problem, you could reference example like the travelling s
 | 252 | https://leetcode.com/problems/meeting-rooms/ | [this link](../practice/solution/0252_meeting_rooms.py) |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | [this link](../practice/solution/0253_meeting_rooms_ii.py) |
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
+| 406 | https://leetcode.com/problems/queue-reconstruction-by-height/ | [this link](../practice/solution/0406_queue_reconstruction_by_height.py) |
 | 435 | https://leetcode.com/problems/non-overlapping-intervals/ | [this link](../practice/solution/0435_non_overlapping_intervals.py) | 
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
