@@ -44,6 +44,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
 | 1197 | https://leetcode.com/problems/minimum-knight-moves/ | [this link](../practice/solution/1197_minimum_knight_moves.py) |
 | 1219 | https://leetcode.com/problems/path-with-maximum-gold/ | |
+| 1293 | https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/ | [this link](../practice/solution/1293_shortest_path_in_a_grid_with_obstacles_elimination.py) |
 
 ### Heap solver
 
