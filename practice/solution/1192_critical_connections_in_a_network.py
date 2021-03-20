@@ -16,24 +16,24 @@ class Solution(object):
             self.value_graph[node].append(neighbor)
             self.value_graph[neighbor].append(node)
         
-        self.dfs(0, 0, 0)
+        self.dfs(None, 0, 0)
         
         return self.res
     
-    def dfs(self, node, neighbor, count):
-        self.value_list[neighbor] = count + 1
+    def dfs(self, root_p, root_c, count):
+        self.value_list[root_c] = count + 1
         
-        for temp_node in self.value_graph[neighbor]:
-            if node == temp_node:
+        for neighbor in self.value_graph[root_c]:
+            if root_p == neighbor:
                 continue
-            elif self.value_list[temp_node] == -1:
-                temp_value = self.dfs(neighbor, temp_node, count + 1)
-                self.value_list[neighbor] = min(temp_value, self.value_list[neighbor])
+            elif self.value_list[neighbor] == -1:
+                temp_value = self.dfs(root_c, neighbor, count + 1)
+                self.value_list[root_c] = min(temp_value, self.value_list[root_c])
             else:
-                self.value_list[neighbor] = min(self.value_list[neighbor], self.value_list[temp_node])
+                self.value_list[root_c] = min(self.value_list[root_c], self.value_list[neighbor])
                 
-        if self.value_list[neighbor] == count + 1 and neighbor:
-            self.res.append([node, neighbor])
+        if self.value_list[root_c] == count + 1 and root_c:
+            self.res.append([root_p, root_c])
             
-        return self.value_list[neighbor]
+        return self.value_list[root_c]
         
