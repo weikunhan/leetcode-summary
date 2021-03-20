@@ -9,12 +9,12 @@ class Solution(object):
         """
         
         self.value_list = [-1] * n
-        self.value_graph = collections.defaultdict(list)
+        self.value_graph = collections.defaultdict(set)
         self.res = []
         
         for node, neighbor in connections:
-            self.value_graph[node].append(neighbor)
-            self.value_graph[neighbor].append(node)
+            self.value_graph[node].add(neighbor)
+            self.value_graph[neighbor].add(node)
         
         self.dfs(None, 0, 0)
         
