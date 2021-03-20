@@ -17,7 +17,7 @@ class Solution(object):
         """
         
         self.res = []
-        self.value_graph = collections.defaultdict(list)
+        self.value_graph = collections.defaultdict(set)
         value_list = collections.deque([(target.val, 0)])
         value_dict = set([target.val])
         
@@ -48,9 +48,8 @@ class Solution(object):
             return 
         
         if root_p and root_c:
-            self.value_graph[root_c.val].append(root_p.val)
-            self.value_graph[root_p.val].append(root_c.val)
+            self.value_graph[root_c.val].add(root_p.val)
+            self.value_graph[root_p.val].add(root_c.val)
             
         self.helper(root_c, root_c.left)
         self.helper(root_c, root_c.right)
-        
