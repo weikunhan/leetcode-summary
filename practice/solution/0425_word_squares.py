@@ -35,7 +35,6 @@ class Solution(object):
             
             return        
 
-        self.temp_list = []
         temp_value = ''
         temp_root = self.value_trie
         
@@ -49,16 +48,20 @@ class Solution(object):
             
             temp_root = temp_root.next[char]
         
-        self.helper(temp_root)
+        temp_list = self.helper(temp_root)
         
-        for word in self.temp_list:
+        for word in temp_list:
             self.dfs(value_list + [word])
             
     def helper(self, root):
+        temp_list = []
+        
         if root.word:
-            self.temp_list.append(root.word)
+            temp_list = [root.word]
             
-            return
+            return temp_list
         
         for key, value in root.next.items():
-            self.helper(value)
+            temp_list += self.helper(value)
+            
+        return temp_list
