@@ -24,6 +24,8 @@ class Solution(object):
                 char = 'blank'
             elif char in '+-':
                 char = 'sign'
+            elif char in 'eE':
+                char = 'e'
             else:
                 pass
 
@@ -40,4 +42,3 @@ class Solution(object):
             res = True
             
         return res
-    
